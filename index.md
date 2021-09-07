@@ -413,6 +413,64 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<h3 id="data">Data Download Instructions</h3>
+<p>You can download all of the data used in this workshop by clicking
+<a href="https://ndownloader.figshare.com/articles/6262019/versions/4">this download link</a>. The file is 206 KB.</p>
+
+<p>Clicking the download link will automatically download all of the files to your default download directory as a single compressed
+(<code class="language-plaintext highlighter-rouge">.zip</code>) file. To expand this file, double click the folder icon in your file navigator application (for Macs, this is the Finder
+application).</p>
+
+<p>For a full description of the data used in this workshop see the <a href="data">data page</a>.</p>
+
+<h3 id="software">Software Install Instructions</h3>
+<p>
+  The full setup instructions for the Data Carpentry Social Sciences
+  workshops (with R) can be found at <a href="https://datacarpentry.org/socialsci-workshop/setup-r-workshop.html">
+    the workshop overview site</a>. Please note: We will NOT be discussing SQLlite Browser in this workshop, so there is no need to install it.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Software</th>
+      <th>Install</th>
+      <th>Manual</th>
+      <th>Available for</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Spreadsheet program <br>(Excel or LibreOffice)</td>
+      <td><a href="https://www.libreoffice.org/download/download/">Link</a></td>
+      <td><a href="https://documentation.libreoffice.org/en/english-documentation/">Link</a></td>
+      <td>Linux, MacOS, Windows</td>
+      <td>Spreadsheet program for organizing tabular data.</td>
+    </tr>
+    <tr>
+      <td>OpenRefine</td>
+      <td><a href="http://openrefine.org/download.html">Link</a></td>
+      <td><a href="http://openrefine.org/documentation.html">Link</a></td>
+      <td>Linux, MacOS, Windows</td>
+      <td>Tool for cleaning and transforming data.</td>
+    </tr>
+    <tr>
+      <td>R</td>
+      <td><a href="https://datacarpentry.org/socialsci-workshop/setup-r-workshop.html#r-and-rstudio">View these install instructions.</a></td>
+      <td> </td>
+      <td>Linux, MacOS, Windows</td>
+      <td>R programming language.</td>
+    </tr>
+    <tr>
+      <td>RStudio</td>
+      <td><a href="https://www.rstudio.com/products/rstudio/download/#download">Link</a></td>
+      <td><a href="https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf">Cheatsheet</a></td>
+      <td>Linux, MacOS, Windows</td>
+      <td>Integrated Development Envirornment (IDE) for R.</td>
+    </tr>
+  </tbody>
+</table>
 
 {% comment %}
 For online workshops, the section below provides:
