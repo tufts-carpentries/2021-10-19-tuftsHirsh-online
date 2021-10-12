@@ -421,7 +421,7 @@ please preview your site before committing, and make sure to run
 (<code class="language-plaintext highlighter-rouge">.zip</code>) file. To expand this file, double click the folder icon in your file navigator application (for Macs, this is the Finder
 application).</p>
 
-<p>For a full description of the data used in this workshop see the <a href="data">data page</a>.</p>
+<p>For a full description of the data used in this workshop see the <a href="https://datacarpentry.org/socialsci-workshop/data/">data page</a>.</p>
 
 <h3 id="software">Software Install Instructions</h3>
 <p>
